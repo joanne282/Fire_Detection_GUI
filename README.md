@@ -6,4 +6,5 @@ Fire Detection GUI Program
  - pyisntaller
 
 Fire_detection executable file using pyinstaller.
+
 properties change file: properties.txt
