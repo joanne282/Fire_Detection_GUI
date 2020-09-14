@@ -8,6 +8,7 @@ Fire Detection GUI Program
 properties change file: properties.txt
 
 Fire_detection executable file using pyinstaller.
+
 (If you want to use Fire_Detection through an executable file, you can use pyintstaller.)
 
 
